@@ -1,5 +1,3 @@
-package AdventOfCode;
-
 public class Day6a {
 
 	//static int[] times = {7, 15, 30};

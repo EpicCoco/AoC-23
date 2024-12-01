@@ -1,4 +1,3 @@
-package AdventOfCode;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.io.File;

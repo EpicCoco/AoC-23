@@ -1,5 +1,3 @@
-package AdventOfCode;
-
 public class Day6b {
 
 	//static int time = 71530;
